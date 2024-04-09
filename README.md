@@ -6,7 +6,7 @@ Live=https://blog-app-ofa9.onrender.com/
 
 Tech Stack : JavaScript , NodeJS , ReactJS , ExpressJS , MongoDB ,jQuery, TailwindCSS , Flowbite , Firebase
 
-Features
+Features-
 
 
 •Dark Mode
