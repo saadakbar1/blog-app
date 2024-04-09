@@ -1,4 +1,4 @@
-#Blog-app
+
 A MERN stack Blog application which have articles about tech.
 
 
