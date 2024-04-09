@@ -16,9 +16,9 @@ export default function CallToAction() {
                 </a>
             </Button>
         </div>
-        <div className="p-7 flex-1">
+{/*         <div className="p-7 flex-1">
             <img src="src/image/tuff.png" />
-        </div>
+        </div> */}
     </div>
   )
 }
