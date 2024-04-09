@@ -4,7 +4,7 @@ A MERN stack Blog application which have articles about tech.
 
 Live=https://blog-app-ofa9.onrender.com/
 
-Tech Stack : JavaScript , NodeJS , ReactJS , ExpressJS , MongoDB ,jQuery, TailwindCSS , Flowbite , Firebase
+Implemented using JavaScript , NodeJS , ReactJS , ExpressJS , MongoDB ,jQuery, Context APi , Redux Store,JWT ,TailwindCSS , Flowbite , Firebase
 
 Features-
 
