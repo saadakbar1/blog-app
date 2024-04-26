@@ -3,6 +3,7 @@ A MERN stack Blog application which have articles about tech.
 
 
 Live=https://blog-app-ofa9.onrender.com/
+(Website takes sometime before loading, close link and retry if it does not work.)
 
 Implemented using JavaScript , NodeJS , ReactJS , ExpressJS , MongoDB ,jQuery, Context APi , Redux Store,JWT ,TailwindCSS , Flowbite , Firebase
 
