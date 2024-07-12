@@ -14,7 +14,7 @@ export default function FooterCom() {
               <span className='px-4 py-2 bg-gradient-to-r from-green-400 via-green-500 to-green-400 rounded-lg text-white'>
               DevBytes
               </span>
-              Blog
+           
             </Link>
           </div>
           <div className='grid grid-cols-2 gap-8 mt-4 sm:grid-cols-3 sm:gap-6'>
